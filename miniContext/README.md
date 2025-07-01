@@ -30,4 +30,4 @@ Using useContext we can pass the data through the various components
 - Now we create one userContextProvider.jsx file. The context which we created it provide a value that can be accessed by any child component wrapped in a Context.Provider.
 
 # How it helpful for this application
-- In this application we use useContext to pass the username
+- In this application we use useContext to pass the Username.
